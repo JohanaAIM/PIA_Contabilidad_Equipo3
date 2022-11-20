@@ -1,0 +1,220 @@
+print ("Presupuesto Maestro")
+
+print ("Presupuesto de ventas")
+
+print ("Producto A")
+
+print ("Diciembre    Enero    Febrero   Marzo   Abril    Mayo")
+
+print ("------------------------------------------------------")
+
+print ("Unidades a vender:")
+
+print ("$600         600        726      799      878     966")
+
+print ("Precio Unitario:")
+
+print ("$25,00       25,000    25,00    25,000  25,000  25,000")
+
+print ("Ventas esperadas:")
+
+print ("$15,000      16,500    18,150   19,965  21,962  24,158")
+
+print ("Total $115,734")
+
+print ("**********************************************************")
+
+print ("Producto B")
+
+print ("Diciembre    Enero     Febrero     Marzo     Abril     Mayo")
+
+print ("-------------------------------------------------------------")
+
+print ("Unidades a vender")
+
+print (" 800          880       968        1065       1171    1288")
+
+print ("Precio Unitario")
+
+print ("$27.00      $27.00    $27.00      $27.00    $27.00    $27.00")
+
+print ("Ventas esperadas")
+
+print ("$21,600     $23,760   $26,136     $28,750   $31,625   $34,787")
+
+print ("Total: $166,657")
+
+print ("——————————————————————")
+2.
+print ("Presupuesto de cobros")
+print ("Producto A")
+print ("Enero        Febrero      Marzo        Abril         Mayo")
+print ("-----------------------------------------------------------")
+print ("Crédito (70%)")
+print ("$11,550.00  $12,705.00  $13,975.50   $15,373.05   $16,910.36")
+print ("Contado (30%)")
+print ("$4,950.00   $5,445.00   $5,989.50    $6,588.45    $7,247.30")
+print ("Ventas esperadas")
+print ("$16,500     $18,150     $19,965      $21,962      $24,158")
+
+
+print ("Producto B")
+print ("Enero        Febrero        Marzo        Abril        Mayo")
+print ("-----------------------------------------------------")
+print ("Crédito (70%)")
+print ("$16,632.00  $18,295.20    $20,124.72   $22,137.19   $24,350.91")
+print ("Contado (30%)")
+print ("$7,128.00   $7,840.80     $8,624.88    $9,487.37    $10,436.10")
+print ("Ventas esperadas")
+print ("$23,760     $26,136       $28,750      $31,625      $34,787")
+print ("——————————————————————")
+3.
+
+print ("Presupuesto de Compras")
+
+print ("-------------------------")
+
+print ("Producto A")
+
+print ("Diciembre        Enero      Febrero     Marzo     Abril     Mayo")
+
+print ("Mercadería")
+
+print ("660              957        660         957      1387.65  2012.0925")
+
+print ("Precio por unidad")
+
+print ("$17.00           $17.00     $17.00      $17.00   $17.00   $17.00")
+
+print ("Total")
+
+print ("$11,220.00       $16,269    $11,220     $16,269  $23,590  $34,206")
+
+print ("Total Final")
+
+print ("112,774")
+
+print ("*****************************")
+
+print ("Producto B")
+
+print ("-------------------------------------------------------------------")
+
+print ("Diciembre        Enero     Febrero      Marzo     Abril     Mayo")
+
+print ("Mercadería")
+
+print ("880              1276      1850         2683      3890      5641")
+
+print ("Precio por Unidad")
+
+print ("$17 00           $17 00    $17 00       $17 00    $17 00   $17 00")
+
+print ("Total")
+
+print ("$14,960.00       $21,692   $31,453     $45,607   $66,131  $95,890")
+
+print ("Total Final")
+
+print ("$275,733")
+print ("——————————————————————")
+4.
+
+print ("Presupuesto de costo de mercancía vendida (Primeros 5 meses)")
+
+print ("Producto A")
+
+print ("*****************")
+
+print ("Concepto             Costo")
+
+print ("Invent. Inicial    $15,000.00")
+
+print ("Compras            $112,773.62")
+
+print ("Invent Final       $6,250.00")
+
+print ("Total Material US  $134,023.62")
+
+print ("Mano O.D           $37.00")
+
+print ("C.I.F.             $0.00")
+
+print ("Total Cargos Fab   $134,060.62")
+
+print ("C.M.V.             $134,060.62")
+
+print ("————————————————————————————————")
+
+print ("Producto B")
+
+print ("Concepto.            Costo")
+
+print ("Invent. Inicial      $6,250.00")
+
+print ("Compras              $275,733.23")
+
+print ("Invent. Final        $2,700.00")
+
+print ("Total Material US    $284,683.23")
+
+print ("Mano O.D.            $41.00")
+
+print ("C.I.F.               $0.00")
+
+print ("Total Cargos Fab     $284,724.23")
+
+print ("C.M.V.               $284,724.23")
+print ("——————————————————————")
+5.
+print ("Presupuesto de Pagos")
+print ("Producto A")
+print ("Enero        Febrero      Marzo      Abril     Mayo")
+
+print ("————————————————————————————————")
+print ("Credito (85%)")
+print ("$13,829      $9,537       $13,829    $20,052   $29,075")
+print ("Contado (15%)")
+print ("$2,440       $1,683       $2,440     $3,539    $5,131")
+print ("Totales")
+print ("$16,269      $11,220      $16,269    $23,590   $34,206")
+
+print("**************************")
+print ("Producto B")
+print ("Crédito (85%)")
+print ("$18,438      $26,735      $38,766    $56,211   $81,506")
+print ("Contado (15%)")
+print ("$3,254       $4,718       $6,841     $9,920    $14,383")
+print ("Totales")
+print ("$21,692      $31,453      $45,607    $66,131   $95,890")
+print ("——————————————————————")
+6.
+print ("Estado de resultados proyectados")
+print ("——————————————————————————————————")
+print ("Concepto              Valor")
+print ("Ventas Totales       $282,391")
+print ("C.M.V.               $418,785")
+print ("Utilidad Bruta V     $300,608,00")
+print ("Gastos A/V           $80,00")
+print ("U.A.I.I.             $300,528,00")
+print ("Impuesto             $45,079,200")
+print ("Utilidad Neta        $255,448,800")
+
+print ("——————————————————————")
+7.
+
+print ("Presupuesto de producción: unidades a producir")
+
+print ("——————————————————————————————————————————————")
+
+print ("Concepto.       Producto A            Producto B")
+
+print ("Ventas (uds).   600                   800")
+
+print ("Inv. Final.     250                   100")
+
+print ("Uds. Requeridas 850                   900")
+
+print ("Inv Inicial.    600                   800")
+
+print ("Uds. A producir 250                   100")
